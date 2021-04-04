@@ -1,0 +1,35 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+
+
+#search-field {
+  width: 600px;
+  display: inline;
+  margin-bottom: 10px;
+}
+
+#search-button {
+  width: 160px;
+}
+
+.required {
+  color: red;
+}
+
+#description { 
+  width: 500px;
+}
+
+#date { 
+  width: 180px;
+}
+
+#notes {
+  width: 520px;
+}
+
+#lat-error,
+#long-error {
+  visibility: hidden;
+}
